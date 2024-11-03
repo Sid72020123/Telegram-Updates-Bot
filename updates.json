@@ -1,0 +1,24 @@
+[
+    {
+        "id": "wu",
+        "name": "Weather Updates",
+        "settings": {
+            "time": "21:30:00",
+            "city": "Pune"
+        }
+    },
+    {
+        "id": "dq",
+        "name": "Daily Quotes",
+        "settings": {
+            "time": "06:00:00"
+        }
+    },
+    {
+        "id": "nf",
+        "name": "Number Facts",
+        "settings": {
+            "time": "20:55:00"
+        }
+    }
+]
